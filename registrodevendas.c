@@ -41,6 +41,7 @@ void registrar_vendas(int vendas, char nome_produto[][50], int quant_vendida[], 
         scanf("%d", &quant_vendida[i]);
         printf("Preco unitario: ");
         scanf("%f", &preco_unit[i]);
+        getchar();
         linha();
         } while (quant_vendida[i] < 0 || preco_unit[i] < 0);
     }
