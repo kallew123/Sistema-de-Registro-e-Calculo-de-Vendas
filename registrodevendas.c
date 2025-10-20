@@ -22,6 +22,9 @@ int main(void){
     float total_vendas ;
     registrar_vendas(vendas, nome_produto, quant_vendida, preco_unit);
     resultado(vendas, nome_produto, quant_vendida, preco_unit, total_vendas_produto, total_vendas);
+    printf("Pressione Enter para sair...");
+    getchar();
+    getchar();
     return 0;
 
 }
