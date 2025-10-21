@@ -44,13 +44,6 @@ Durante o desenvolvimento, foram reforçados os seguintes conceitos:
 - Lógica para **cálculo acumulativo** de valores.  
 
 ---
-
-## 🏁 Conclusão
-O programa final demonstra uma aplicação prática de estruturas de repetição e manipulação de arrays em C.  
-Além de cumprir os requisitos da atividade, o código apresenta **clareza, modularização e formatação profissional** na saída, simulando um sistema simples de controle de vendas.
-
----
-
 ## 🚀 Como Executar o Programa
 
 Se você quiser **apenas usar o sistema**, não precisa compilar nada!  
@@ -79,3 +72,9 @@ O sistema será iniciado e permitirá registrar e calcular as vendas normalmente
 ⚠️ Dica: Se você der duplo clique no arquivo .exe, o programa funciona,
 mas a janela pode fechar automaticamente ao final.
 Por isso, o ideal é rodar via Prompt de Comando.
+
+---
+
+## 🏁 Conclusão
+O programa final demonstra uma aplicação prática de estruturas de repetição e manipulação de arrays em C.  
+Além de cumprir os requisitos da atividade, o código apresenta **clareza, modularização e formatação profissional** na saída, simulando um sistema simples de controle de vendas.
