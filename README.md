@@ -48,3 +48,34 @@ Durante o desenvolvimento, foram reforçados os seguintes conceitos:
 ## 🏁 Conclusão
 O programa final demonstra uma aplicação prática de estruturas de repetição e manipulação de arrays em C.  
 Além de cumprir os requisitos da atividade, o código apresenta **clareza, modularização e formatação profissional** na saída, simulando um sistema simples de controle de vendas.
+
+---
+
+## 🚀 Como Executar o Programa
+
+Se você quiser **apenas usar o sistema**, não precisa compilar nada!  
+O executável **`registrodevendas.exe`** já está disponível neste repositório.  
+
+---
+
+### 🪟 Passos para rodar no Windows
+
+1. **Baixe** o arquivo [`registrodevendas.exe`](./registrodevendas.exe) deste repositório.  
+2. Localize-o na sua pasta **Downloads** (ou onde você salvou).  
+3. Abra o **Prompt de Comando (CMD)**:
+   - Pressione **`Windows + R`**, digite `cmd` e pressione **Enter**.
+4. No terminal, acesse a pasta onde o arquivo foi baixado:
+   ```bash
+   cd C:\Users\SeuUsuario\Downloads
+💡 Substitua SeuUsuario pelo nome do seu usuário no Windows.
+
+Execute o programa com:
+
+bash
+Copiar código
+registrodevendas.exe
+O sistema será iniciado e permitirá registrar e calcular as vendas normalmente ✅
+
+⚠️ Dica: Se você der duplo clique no arquivo .exe, o programa funciona,
+mas a janela pode fechar automaticamente ao final.
+Por isso, o ideal é rodar via Prompt de Comando.
